@@ -18,7 +18,7 @@ spec:
         app: testapp
     spec:
       containers:
-      - image: akscicd/testingnew:latestew
+      - image: akscicd/testingnew:latest:latestew
         name: testapp
         resources: {}
 status: {}
