@@ -18,7 +18,7 @@ spec:
         app: testapp
     spec:
       containers:
-      - image: akscicd/testingnew:latestew:latest
+      - image: akscicd/amit_httpd
         name: testapp
         resources: {}
 status: {}
