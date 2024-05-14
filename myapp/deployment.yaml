@@ -18,7 +18,7 @@ spec:
         app: testapp
     spec:
       containers:
-      - image: akscicd/testingnew-
+      - image: akscicd/testingnew-65cd4fc
         name: testapp
         resources: {}
 status: {}
